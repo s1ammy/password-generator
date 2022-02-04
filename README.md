@@ -1,6 +1,10 @@
 ## This is a web program that generate password of arbitrary length
 
 ---
+PIP installation:
+```
+pip3 install -U pywebio
+```
 
 Code:
 
